@@ -362,5 +362,10 @@ a.mailto:link {
 
   footer {
     height: max-content;
+    overflow: hidden;
+  }
+
+  .footer a {
+    font-size: 0.6rem;
   }
 }
