@@ -359,4 +359,8 @@ a.mailto:link {
   .herotitle h1 {
     font-size: 2rem;
   }
+
+  footer {
+    height: max-content;
+  }
 }
